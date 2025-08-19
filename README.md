@@ -68,3 +68,4 @@ Check out those links if you want to see Somco Software in action and follow the
 * 👔 [Somco Software LinkedIn Profile](https://www.linkedin.com/company/scythestudio/mycompany/)
 * 👔 [Somco Software Facebook Page](https://www.facebook.com/ScytheStudiio)
 * 🎥 [Somco Software Youtube Channel](https://www.youtube.com/channel/UCf4OHosddUYcfmLuGU9e-SQ/featured)
+* delete Page3
